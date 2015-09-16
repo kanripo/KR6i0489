@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 得道梯橙錫杖經
+#+DATE: 2015-08-30 20:20:48.433427
+#+PROPERTY: JUAN 0
